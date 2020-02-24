@@ -1,0 +1,2 @@
+Target project :
+- membuat aplikasi jual beli online
